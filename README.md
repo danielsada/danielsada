@@ -4,6 +4,12 @@
 
 I'm a software developer, I love coding, coffee, photography and travel. I have projects below and I write in [danielsada.tech](https://danielsada.tech/)
 
+![](https://badgen.net/badge/Badges/make/blue)
+![](https://badgen.net/badge/repos/look/red)
+![](https://badgen.net/badge/more/legit/green)
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30px"/>
+
+
 - ☕️ **Coffee Machine:**  Breville Barista Express 
 - ⚙️ **Coffee Grinder:**  Cappresso Coffee Grinder 
 - 💼 **Work @:** Microsoft OneNote 💜 
