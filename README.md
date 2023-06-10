@@ -12,10 +12,8 @@ I'm a software developer, I love coding, coffee, photography and travel. I have 
 
 - ☕️ **Coffee Machine:**  Breville Barista Express 
 - ⚙️ **Coffee Grinder:**  Cappresso Coffee Grinder 
-- 💼 **Work @:** Microsoft OneNote 💜 
 - 📸 **Camera:** Sony AS7ii
 - 🎤 **Mic:** Samson Q2U
-- 🏈 **Team:** Seahawks 🦅
 
 Some of my posts:
 - [How to sleep at night having a cloud service: common Architecture Do's ](https://danielsada.tech/blog/cloud-services-dos/)
