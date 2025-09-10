@@ -11,7 +11,7 @@ I'm a software developer, I love coding, coffee, photography and travel. I have 
 
 
 - ☕️ **Coffee Machine:**  Breville Barista Express 
-- ⚙️ **Coffee Grinder:**  Cappresso Coffee Grinder 
+- ⚙️ **Coffee Grinder:**  Malhkoenig X54 (And I'm in love with it)
 - 📸 **Camera:** Sony AS7ii
 - 🎤 **Mic:** Samson Q2U
 
